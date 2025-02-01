@@ -10,7 +10,7 @@
 ![youtrack](youtrack-1.png)
 ![qase](qase.png)
 ![test-it](test-it.png)
-![Azure-DevOps](Azure-DevOps.png)
+![Azure-DevOps](Azure-DevOps.pngC:\Users\Nemiroff\Desktop\иконки)
 
 
 Follow Me
