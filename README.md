@@ -1,7 +1,8 @@
 ![Header](https://github.com/Serega2812/Serega2812/blob/main/assets/%D0%BB%D0%B5%D0%B2.png)
 
-About me
-
+## Привет, меня зовут Сергей!
+# Мне 34 года.Мой тел:8-963-433-91-99 Мой email:Nemiroff3366@yandex.ru 
+# Желаемая должность– «Junior Test Engineer»
 Languages and Tools
 
 Follow Me
