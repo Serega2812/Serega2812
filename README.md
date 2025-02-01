@@ -2,7 +2,8 @@
 
 ## Привет, меня зовут Сергей!
 # Мне 34 года.
-# тел:8-963-433-91-99  # email:Nemiroff3366@yandex.ru 
+# тел:8-963-433-91-99  
+# email:Nemiroff3366@yandex.ru 
 # Желаемая должность– «Junior Test Engineer»
 Languages and Tools
 
