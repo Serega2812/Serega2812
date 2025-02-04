@@ -24,5 +24,8 @@
 ## Работа с данными:
 ![MySQL](https://shields.microej.com/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=47C5FB)
 ![Mongodb](https://shields.microej.com/badge/-Mongodb-090909?style=for-the-badge&logo=Mongodb&logoColor=47C5FB)
-
+## Работа с кодом:
+![Git](https://shields.microej.com/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=47C5FB)
+![GitBash](https://shields.microej.com/badge/-GitBash-090909?style=for-the-badge&logo=GitBash&logoColor=47C5FB)
+![VScode](https://shields.microej.com/badge/-VScode-090909?style=for-the-badge&logo=VScode&logoColor=47C5FB)
 Follow Me
