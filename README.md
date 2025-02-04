@@ -15,6 +15,12 @@
 ![Devtools](https://shields.microej.com/badge/-Devtools-090909?style=for-the-badge&logo=Devtools&logoColor=47C5FB)
 ![Postman](https://shields.microej.com/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=47C5FB)
 ![SoapUI](https://shields.microej.com/badge/-SoapUI-090909?style=for-the-badge&logo=SoapUI&logoColor=47C5FB)
+## Тестирование мобильных приложений:
+![AndroidStudio](https://shields.microej.com/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=47C5FB)
+![Xcode](https://shields.microej.com/badge/-Xcode-090909?style=for-the-badge&logo=Xcode&logoColor=47C5FB)
+![CharlesProxy](https://shields.microej.com/badge/-CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=47C5FB)
+![Fiddler](https://shields.microej.com/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=47C5FB)
+![Proxyman](https://shields.microej.com/badge/-Proxyman-090909?style=for-the-badge&logo=Proxyman&logoColor=47C5FB)
 
 
 
