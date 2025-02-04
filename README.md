@@ -28,5 +28,5 @@
 ![Git](https://shields.microej.com/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=47C5FB)
 ![GitBash](https://shields.microej.com/badge/-GitBash-090909?style=for-the-badge&logo=GitBash&logoColor=47C5FB)
 ![VScode](https://shields.microej.com/badge/-VScode-090909?style=for-the-badge&logo=VScode&logoColor=47C5FB)
-### Follow Me
+### Мои соц.сети:
 [![vkontakte](https://shields.microej.com/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=47C5FB)](https://vk.com/id96189244)
