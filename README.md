@@ -6,11 +6,11 @@
 # email:Nemiroff3366@yandex.ru 
 # Желаемая должность– «Junior Test Engineer»
 ## Тестовая документация:
-![Jira](Jira-1.jpeg)
-![youtrack](youtrack-1.png)
-![qase](qase.png)
-![test-it](test-it.png)
-![Azure-DevOps](Azure-DevOps.pngC:\Users\Nemiroff\Desktop\иконки)
+![Jira](https://shields.microej.com/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
+![youtrack](https://shields.microej.com/badge/-youtrack-<color>?style=for-the-badge&logo=youtrack&logoColor=47C5FB)
+![qase](https://shields.microej.com/badge/-qase-<color>?style=for-the-badge&logo=qase&logoColor=47C5FB)
+![test-IT](https://shields.microej.com/badge/-testIT-<color>?style=for-the-badge&logo=testIT&logoColor=47C5FB)
+![Azure-DevOps](https://shields.microej.com/badge/-AzureDevOps-090909?style=for-the-badge&logo=AzureDevOps&logoColor=47C5FB)
 
 
 Follow Me
