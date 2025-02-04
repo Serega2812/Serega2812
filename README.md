@@ -21,7 +21,8 @@
 ![CharlesProxy](https://shields.microej.com/badge/-CharlesProxy-090909?style=for-the-badge&logo=CharlesProxy&logoColor=47C5FB)
 ![Fiddler](https://shields.microej.com/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddler&logoColor=47C5FB)
 ![Proxyman](https://shields.microej.com/badge/-Proxyman-090909?style=for-the-badge&logo=Proxyman&logoColor=47C5FB)
-
-
+## Работа с данными:
+![MySQL](https://shields.microej.com/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=47C5FB)
+![Mongodb](https://shields.microej.com/badge/-Mongodb-090909?style=for-the-badge&logo=Mongodb&logoColor=47C5FB)
 
 Follow Me
